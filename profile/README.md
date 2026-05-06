@@ -2,6 +2,8 @@
 
 > Open-source functional audio platform to enhance **focus**, **relaxation**, and **sleep**.
 
+<img width="1403" height="1121" alt="ChatGPT Image 5 de mai  de 2026, 22_20_35" src="https://github.com/user-attachments/assets/ef30086b-dd30-4a38-a895-05a2e31bae73" />
+
 ---
 
 ## 🚀 About
